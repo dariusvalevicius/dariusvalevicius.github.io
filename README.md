@@ -8,4 +8,4 @@ What might interest you more at the moment are my paintings, which I have starte
 
 
 
-<button name="button" onclick="paintings.md">View Paintings</button>
+<button name="button" onclick="dariusliutas.com/paintings">View Gallery</button>

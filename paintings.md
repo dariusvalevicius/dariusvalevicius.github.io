@@ -22,35 +22,35 @@ H3V 1G2
 
 ### Mount Olympus
 
+![image](images/mount_olympus.JPG)
+
 11x14 acrylic
 
 $200 CAD
-
-![image](images/mount_olympus.JPG)
 
 ### Deep troughs in snow
 
+![image](images/deep_troughs.JPG)
+
 11x14 acrylic
 
 $200 CAD
-
-![image](images/deep_troughs.JPG)
 
 ### Three sisters
 
+![image](images/three_sisters.JPG)
+
 11x14 acrylic
 
 $200 CAD
-
-![image](images/three_sisters.JPG)
 
 ### Still lake
 
+![image](images/quebec_lake.JPG)
+
 11x14 acrylic
 
 $200 CAD
-
-![image](images/quebec_lake.JPG)
 
 -----
 
@@ -58,9 +58,8 @@ $200 CAD
 
 ### Fox resting
 
-16x20 acrylic
-
-~~$400 CAD~~ sold
-
 ![image](images/fox_resting.JPG)
 
+16x20 acrylic
+
+~~$400 CAD~~  Sold
