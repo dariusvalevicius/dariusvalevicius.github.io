@@ -1,5 +1,4 @@
-# Paintings for Sale
-
+# Gallery
 Open for commisions!
 
 - 11x14 stretched canvas, acrylic: $200 CAD
@@ -52,4 +51,16 @@ $200 CAD
 $200 CAD
 
 ![image](images/quebec_lake.JPG)
+
+-----
+
+## Sold paintings:
+
+### Fox resting
+
+16x20 acrylic
+
+~~$400 CAD~~ sold
+
+![image](images/fox_resting.JPG)
 
