@@ -6,6 +6,4 @@ I'm currently set to pursue my PhD in computational neuroscience at University o
 
 What might interest you more at the moment are my paintings, which I have started putting up for sale - see the page below.
 
-
-
-<button name="button" onclick="dariusliutas.com/paintings">View Gallery</button>
+[View Gallery](https://dariusliutas.com/gallery)
