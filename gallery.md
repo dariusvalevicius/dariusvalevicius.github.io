@@ -14,15 +14,13 @@ darius.valevicius@gmail.com
 
 (819) 239-8183
 
-H3V 1G2
-
 -----
 
 ## Available paintings:
 
 ### *Mount Olympus*
 
-![image](images/mount_olympus.jpg)
+![image](images/mount_olympus.JPG)
 
 11x14 acrylic
 
