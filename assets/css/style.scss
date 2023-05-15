@@ -4,11 +4,12 @@
 @import "{{ site.theme }}";
 
 img {
-	border-radius: 50%;
-}
-
-img.gallery-img {
     border: 2px solid #ccc;
     border-radius: 5px;
     max-height: 350px;
+}
+
+header img {
+	border: 5px solid black;
+	border-radius: 50%;
 }

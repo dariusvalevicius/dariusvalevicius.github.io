@@ -22,7 +22,7 @@ H3V 1G2
 
 ### *Mount Olympus*
 
-<img src="images/mount_olympus.jpg" alt="image" class="gallery-img">
+![image](images/mount_olympus.jpg)
 
 11x14 acrylic
 
