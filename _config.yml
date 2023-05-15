@@ -3,4 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: DARIUS LIUTAS
 logo: /images/logo.jpg
-description: <p>I'm Darius Jonas Valevicius, a neuroscientist, musician, amateur game developer, and artist based in Montreal.</p>
+description: <p>I'm Darius Jonas Valevicius, a neuroscientist, musician, amateur game developer, and artist based in Montreal.</p><p><button onclick="location.href='https://dariusliutas.com'" type="button">Home</button></p><p><button onclick="location.href='https://dariusliutas.com/gallery'" type="button">Gallery</button></p>
