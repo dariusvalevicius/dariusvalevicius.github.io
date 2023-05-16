@@ -13,7 +13,7 @@ header img {
 	border-radius: 50%;
 }
 
-section a {
+section a:not(nav a) {
   display: inline-block;
   background-color: #fff;
   border: 2px solid #ccc;
@@ -27,7 +27,7 @@ section a {
   text-align: center;
 }
 
-section a:hover {
+section a:hover:not(nav a) {
   background-color: #333;
   border: 2px solid #333;
   color: #fff;
