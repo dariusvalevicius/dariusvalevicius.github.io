@@ -3,6 +3,14 @@
 
 @import "{{ site.theme }}";
 
+.wrapper {
+  width: 960px;
+}
+
+header img {
+	border-radius: 50%
+}
+
 img:not(header img) {
     border: 5px solid #ccc;
     border-radius: 5px;
@@ -58,4 +66,5 @@ nav ul li a:hover {
   color: white;
   cursor: pointer;
   transition-duration: 0.5s;
+  font-weight: normal;
 }
