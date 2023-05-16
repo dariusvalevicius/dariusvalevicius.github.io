@@ -10,7 +10,7 @@ img {
 }
 
 header img {
-	border: 5px solid #ccc;
+    border: 5px solid #ccc;
 	border-radius: 50%;
 }
 
@@ -33,4 +33,21 @@ section a:hover {
   border: 2px solid #333;
   color: #fff;
   cursor: pointer;
+}
+
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+}
+
+nav ul li a {
+  display: inline-block;
+  padding: 10px;
+  text-decoration: none;
 }
