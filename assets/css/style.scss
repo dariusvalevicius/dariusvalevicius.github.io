@@ -8,7 +8,11 @@
 }
 
 section {
-	width: 600px;
+	width: 670px;
+}
+
+header {
+	width: 200px;
 }
 
 header img {
@@ -72,3 +76,28 @@ nav ul li a:hover {
   transition-duration: 0.5s;
   font-weight: normal;
 }
+
+.social-links {
+  text-align: left; /* Align the social links in the center */
+}
+
+.social-link {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  margin: 5px;
+  background-size: cover;
+}
+
+.instagram {
+  background-image: url('images/instagram.PNG');
+}
+
+.twitter {
+  background-image: url('images/twitter.PNG');
+}
+
+.linkedin {
+  background-image: url('images/linkedin.PNG');
+}
+
