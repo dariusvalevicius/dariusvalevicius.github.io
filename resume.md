@@ -2,31 +2,44 @@
 
 ## Education
 
-### PhD Neuroscience
+### PhD 
+
 University of Montreal
+
 2023 - present
 
 ### MSc Neuroscience
+
 McGill University
+
 2020-2021
 
 ### BASc Honours Cognitive Science
+
 Minor in History and Philosophy of Science
+
 McGill University
+
 2017-2020
 
 ## Professional experience
 
 ### Program Assistant
+
 Building 21, McGill University
+
 2021-present
 
 ### Research Software Developer
+
 Montreal Neurological Institute
+
 2021-2023
 
 ### Research Assistant
+
 Healthy Brains, Healthy Lives
+
 2019-2021
 
 ## Publications
