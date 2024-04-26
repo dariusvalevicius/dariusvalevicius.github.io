@@ -1,9 +1,7 @@
-# Welcome to my page!
+# There's not much here for the moment
 
-Thank you for stopping by.
+I may add blog posts or projects in the future. For now, you can view my art via the Instagram link in the bottom-left, follow me on Twitter, or view my CV.
 
-I'm currently set to pursue my PhD in computational neuroscience at University of Montreal. I will have links to my LinkedIn, CV, and publications soon.
+To contact me, send me an email at darius.valevicius@gmail.com
 
-What might interest you more at the moment are my paintings, which I have started putting up for sale - see the page below.
-
-[View Gallery](https://dariusliutas.com/gallery)
+"Liutas" is not my real name, but it's a Lithuanian word that sounds nice as a pseudonym.
