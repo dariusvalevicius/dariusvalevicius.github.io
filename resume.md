@@ -15,8 +15,6 @@ Minor in History and Philosophy of Science\
 McGill University\
 2017-2020
 
----
-
 ## Professional experience
 
 ### Program Assistant
@@ -30,8 +28,6 @@ Montreal Neurological Institute\
 ### Research Assistant
 Healthy Brains, Healthy Lives\
 2019-2021
-
----
 
 ## Publications
 
