@@ -3,16 +3,44 @@
 
 @import "{{ site.theme }}";
 
+// .wrapper {
+//   width: 960px;
+// }
+
+// section {
+// 	width: 650px;
+// }
+
+// header {
+// 	width: 220px;
+// }
+
+/* Default styles for desktop */
 .wrapper {
   width: 960px;
+  display: flex;
+  flex-direction: row;
 }
 
 section {
-	width: 650px;
+  width: 650px;
 }
 
 header {
-	width: 220px;
+  width: 220px;
+}
+
+/* Styles for mobile devices */
+@media (max-width: 767px) {
+  .wrapper {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  section, header {
+    width: 100%;
+  }
 }
 
 header img {
