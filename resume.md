@@ -1,10 +1,10 @@
-# Curriculum Vitae
+# Resume
 
 ## Publications
 
-Valevicius, D., Lépine Lopez, A., Diushekeeva, A., Lee, A. C., & Roy, M. (2023). Emotional responses to favorite and relaxing music predict music-induced hypoalgesia. Frontiers in Pain Research, 4, 1210572. DOI: 10.3389/fpain.2023.1210572
+Valevicius, D., Lépine Lopez, A., Diushekeeva, A., Lee, A. C., & Roy, M. (2023). **Emotional responses to favorite and relaxing music predict music-induced hypoalgesia.** Frontiers in Pain Research, 4, 1210572. DOI: [10.3389/fpain.2023.1210572](https://www.frontiersin.org/journals/pain-research/articles/10.3389/fpain.2023.1210572/full)
 
-Valevicius, D., Beck, N., Kasper, L., Boroday, S., Bayer, J., Rioux, P., ... & Khalili-Mahani, N. (2023). Web-based processing of physiological noise in fMRI: addition of the PhysIO toolbox to CBRAIN. Frontiers in Neuroinformatics, 17. DOI: 10.3389/fninf.2023.1251023
+Valevicius, D., Beck, N., Kasper, L., Boroday, S., Bayer, J., Rioux, P., ... & Khalili-Mahani, N. (2023). **Web-based processing of physiological noise in fMRI: addition of the PhysIO toolbox to CBRAIN.** Frontiers in Neuroinformatics, 17. DOI: [10.3389/fninf.2023.1251023](https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2023.1251023/full)
 
 ## Education
 
