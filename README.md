@@ -1,10 +1,10 @@
-# There's not much here for the moment
+# Welcome!
 
-I may add blog posts or projects in the future. For now, you can view my art via the Instagram link in the bottom-left, follow me on Twitter, or view my CV.
+... to my humble personal site. I may add some blog posts in the future, but for now, I am trying to document all my work and personal projects in one place.
 
 To contact me, send me an email at [darius.valevicius@gmail.com](darius.valevicius@gmail.com).
 
-"Liutas" is not my real name, but it's a Lithuanian word that sounds nice as a pseudonym.
+"Liutas" is not my real surname, but it's a Lithuanian word that sounds nice as a pseudonym.
 
 # About me
 
