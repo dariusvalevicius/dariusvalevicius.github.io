@@ -6,9 +6,9 @@ This is the topic of my PhD dissertation which will began in September 2023 and 
 
 This project is ongoing, and is accessible through multiple GitHub repos:
 
-[**Decoder Construction**](https://github.com/dariusvalevicius/decoder-construction): This contains the code for fast preprocessing of fMRI data in native space, which is necessary to be able to replicate the same pipeline in a realtime experiment. A model script shows the steps involved in coming up with a classification model that uses a combination of PCA and logistic regression to get a generalizable model of whole-brain activity which can predict emotion responses.
+[Decoder Construction](https://github.com/dariusvalevicius/decoder-construction): This contains the code for fast preprocessing of fMRI data in native space, which is necessary to be able to replicate the same pipeline in a realtime experiment. A model script shows the steps involved in coming up with a classification model that uses a combination of PCA and logistic regression to get a generalizable model of whole-brain activity which can predict emotion responses.
 
-[**Realtime Evolution**](https://github.com/dariusvalevicius/realtime-evolution): This repository contains the code for the real-time experiment. The experiments are split across two computers: A stimulus presentation computer, which runs the PsychoPy script presenting the generated images and recomputes new embeddings based on a fitness function, and a support computer, which runs the preprocessing, model prediction, and image generation programs asychrnonously.
+[Realtime Evolution](https://github.com/dariusvalevicius/realtime-evolution): This repository contains the code for the real-time experiment. The experiments are split across two computers: A stimulus presentation computer, which runs the PsychoPy script presenting the generated images and recomputes new embeddings based on a fitness function, and a support computer, which runs the preprocessing, model prediction, and image generation programs asychrnonously.
 
 ## Biofeedback tone therapy
 
