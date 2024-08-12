@@ -1,5 +1,7 @@
 # Resume
 
+[Click here for full CV in PDF format.](https://github.com/dariusvalevicius/files/darius-valevicius_resume_august-2024.pdf)
+
 ## Publications
 
 Valevicius, D., Lépine Lopez, A., Diushekeeva, A., Lee, A. C., & Roy, M. (2023). *Emotional responses to favorite and relaxing music predict music-induced hypoalgesia.* Frontiers in Pain Research, 4, 1210572. DOI: [10.3389/fpain.2023.1210572](https://www.frontiersin.org/journals/pain-research/articles/10.3389/fpain.2023.1210572/full)
