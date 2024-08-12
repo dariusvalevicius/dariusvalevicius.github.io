@@ -1,6 +1,6 @@
 # Resume
 
-[Click here for full CV in PDF format.](https://github.com/dariusvalevicius/files/darius-valevicius_resume_august-2024.pdf)
+[Click here for full CV in PDF format.](https://dariusliutas.com/files/darius-valevicius_resume_august-2024.pdf)
 
 ## Publications
 

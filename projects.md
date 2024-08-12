@@ -10,7 +10,7 @@ This project is in the development stage, and is accessible through multiple Git
 
 [Realtime Evolution](https://github.com/dariusvalevicius/realtime-evolution): This repository contains the code for the real-time experiment. The experiments are split across two computers: A stimulus presentation computer, which runs the PsychoPy script presenting the generated images and recomputes new embeddings based on a fitness function, and a support computer, which runs the preprocessing, model prediction, and image generation programs asynchronously.
 
-[Poster for Cognitive Computational Neuroscience 2024.](https://github.com/dariusvalevicius/files/ccn_poster.pdf) Presented in Cambridge, MA in August.
+[Poster for Cognitive Computational Neuroscience 2024.](https://dariusliutas.com/files/ccn_poster.pdf) Presented in Cambridge, MA in August.
 
 ## Biofeedback tone therapy
 
