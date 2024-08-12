@@ -2,13 +2,17 @@
 
 ## Synthetic image evolution using decoded neurofeedback
 
-This is the topic of my PhD dissertation which will began in September 2023 and will progress until about August 2026. Essentially, we are trying to create a **BOGARt (Biometric Optimization of Generated Affective Representations)**, or a machine which adapts to your fears (or insert other emotional response) and generates images that maximally activate that emotion. Why? Partly, just to see if we can. However, the differences between images generated using conscious self-reports and neural or other physiological correlates may help us to understand what kind of information is represented using these different measurement schemes.
+This is the topic of my PhD dissertation which will began in September 2023 and will progress until about August 2026. Essentially, we are trying to create a BOGARt (Biometric Optimization of Generated Affective Representations), or a machine which adapts to your fears (or insert other emotional response) and generates images that maximally target that emotion.
+
+Why? Partly, just to see if we can. However, the differences between images generated using conscious self-reports and neural or other physiological correlates may help us to understand what kind of information is represented using these different measurement schemes. For example, we could visualize what kind of representations are being targeted by a brain decoder or neural signature, to see if they are decoding what we think they're decoding - or whether they are measuring something else that's correlated with our target variable.
 
 This project is in the development stage, and is accessible through multiple GitHub repos:
 
 [Decoder Construction](https://github.com/dariusvalevicius/decoder-construction): This contains the code for fast preprocessing of fMRI data in native space, which is necessary to be able to replicate the same pipeline in a realtime experiment. A model script shows the steps involved in coming up with a classification model that uses a combination of PCA and logistic regression to get a generalizable model of whole-brain activity which can predict emotion responses.
 
 [Realtime Evolution](https://github.com/dariusvalevicius/realtime-evolution): This repository contains the code for the real-time experiment. The experiments are split across two computers: A stimulus presentation computer, which runs the PsychoPy script presenting the generated images and recomputes new embeddings based on a fitness function, and a support computer, which runs the preprocessing, model prediction, and image generation programs asynchronously.
+
+[A self-report only version of the experiment, as well as the code for constructing the CLIP subspace, will be online soon.]
 
 [Poster for Cognitive Computational Neuroscience 2024.](https://dariusliutas.com/files/ccn_poster.pdf) Presented in Cambridge, MA in August.
 
