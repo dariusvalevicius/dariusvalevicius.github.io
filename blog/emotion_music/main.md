@@ -40,17 +40,17 @@ And, lo and behold, it was this fourth theme alone that seemed to have an additi
 
 The feelings that moving/bittersweet music bring up for me are things like communion, relief, compassion, and healing. At the time I was reading Jaak Panksepp, and I thought that this might tie into his theory of social closeness - the opposite of his PANIC/GRIEF system - which he believed was mediated by endogenous opioid molecules, which are of course intimately linked with physical pain. Thus, cathartic music which soothes heartbreak and emotional pain could also have a specific effect on physical pain. More work would have to be done to test this particular hypothesis, though!
 
-## Conclusion
+## Reflections
 
 This was a fun project to work on - I felt really lucky to work on music and emotion, two things I find super interesting. In particular, I'm proud of implementing a mixed methodology, basically by following my nose as I'd never received training in qualitative research. It seems to have turned up some pretty neat results, and I'm continuing in that tradition of including phenomenological reports in my PhD research.
 
-Because of a press release given by Frontiers, the paper got picked up by the media cycle, and currently has an Altmetric score of 1023, which is absolutely insane (!!). But again - I wish people paid more attention to the last few analyses, which is where I think we really added something to the conversation. What do you think?
+Because of a press release given by Frontiers, the paper got picked up by the media cycle, and currently has an Altmetric score of 1023, which is insane (!!). But again - I wish people paid more attention to the last few analyses, which is where I think we really added something to the conversation. What do you think?
 
 ## Footnotes
 
 <sup>1</sup> Plato? Hippocrates? I can't remember, the reviewers made me scrap it from the manuscript.
 
-<sup>2</sup> If you must know, that was shit like The National, Daughter, Death Cab, Keaton Henson... If you know anything about those, don't worry, I'm OK now. Also the Daughter comeback album is fucking amazing.
+<sup>2</sup> Daughter's comeback album is amazing, by the way.
 
 ## Citation
 
