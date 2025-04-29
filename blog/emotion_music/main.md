@@ -42,7 +42,7 @@ The feelings that moving/bittersweet music bring up for me are things like commu
 
 ## Reflections
 
-This was a fun project to work on - I felt really lucky to work on music and emotion, two things I find super interesting. In particular, I'm proud of implementing a mixed methodology, basically by following my nose as I'd never received training in qualitative research. It seems to have turned up some pretty neat results, and I'm continuing in that tradition of including phenomenological reports in my PhD research.
+This was a fun project to work on - I felt really lucky to work on music and emotion, two things I find super interesting. In particular, I'm proud of implementing a mixed methodology, basically by following my nose as I'd never received training in qualitative research. It seems to have turned up some pretty neat results, and I'm continuing in that tradition by including phenomenological reports in my PhD research.
 
 Because of a press release given by Frontiers, the paper got picked up by the media cycle, and currently has an Altmetric score of 1023, which is insane (!!). But again - I wish people paid more attention to the last few analyses, which is where I think we really added something to the conversation. What do you think?
 
