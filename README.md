@@ -2,7 +2,9 @@
 
 ... to my humble personal site. I may add some blog posts in the future, but for now, I am trying to document all my work and personal projects in one place.
 
-To contact me, send me an email at [darius.valevicius@gmail.com](darius.valevicius@gmail.com).
+The absolute best place to keep up with me is on [Bluesky](https://bsky.app/profile/dariusliutas.bsky.social). I try to post a bit of everything, but mostly science-related stuff!
+
+To contact me, you can DM me on Bluesky or LinkedIn, or send me an email at [darius.valevicius@gmail.com](darius.valevicius@gmail.com).
 
 "Liutas" is not my real surname, but it's a Lithuanian word that sounds nice as a pseudonym.
 
