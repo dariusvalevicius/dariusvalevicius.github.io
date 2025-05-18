@@ -25,7 +25,7 @@ There are two ways that this is usually mitigated. The first is to use cross-val
 
 The second method of mitigating the curse of dimensionality is regularization. Ridge is typically preferred over LASSO for fMRI data, since one expects a smooth distribution of weight values over neighboring voxels to be closer to the real causal structure, rather than isolated, scattered voxels as LASSO would produce. SVMs also have their own regularization parameter. However, for whole-brain decoding, I find I have to crank this parameter to astronomical values to even begin to mitigate the rampant overfitting on the training set. The parameters I need to use far exceed those used in whole-brain decoding papers I’ve read.
 
-![More brains!](./blog_fmri_fig2.png "Figure 2")
+![More brains!](./blog_fmri_fig2_cropped.png "Figure 2")
 
 *Figure 2. The effect of different regularization parameters on train and test performance for a single subject’s data. X = around 50k voxels, with around 400 data samples; y = fear ratings associated with stimuli. An apha value of around 10,000 is required to start to attentuate the “perfect fit” to the training data. The results with a linear SVR model are extremely similar, but the model will crash before the train performance dips too much.*
 
