@@ -1,33 +1,78 @@
+---
+---
+
 @import "{{ site.theme }}";
 
-/* Desktop styles - unchanged from your original */
 .wrapper {
   width: 960px;
-  margin: 0 auto;
 }
 
 section {
-  width: 650px;
-  float: right;
-  padding-bottom: 50px;
+	width: 650px;
 }
 
 header {
-  width: 220px;
-  float: left;
-  position: fixed;
+	width: 220px;
+}
+
+// /* Default styles for desktop */
+// .wrapper {
+//   width: 960px;
+//   display: flex;
+//   flex-direction: row;
+// }
+
+// section {
+//   width: 650px;
+// }
+
+// header {
+//   width: 220px;
+// }
+
+/* Styles for mobile devices */
+@media (max-width: 767px) {
+  .wrapper {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  section, header {
+    width: 100%;
+  }
 }
 
 header img {
-  border-radius: 50%;
-  max-width: 150px;
+	border-radius: 50%
 }
 
 img:not(header img) {
-  border: 5px solid #ccc;
-  border-radius: 5px;
-  max-height: 350px;
+    border: 5px solid #ccc;
+    border-radius: 5px;
+    max-height: 350px;
 }
+
+// section a:not(nav a) {
+//   display: inline-block;
+//   background-color: #fff;
+//   border: 2px solid #ccc;
+//   color: #333;
+//   font-size: 16px;
+//   font-weight: bold;
+//   padding: 10px 20px;
+//   transition: all 0.3s ease-in-out;
+//   text-decoration: none;
+//   min-width: 100px;
+//   text-align: center;
+// }
+
+// section a:hover:not(nav a) {
+//   background-color: #333;
+//   border: 2px solid #333;
+//   color: #fff;
+//   cursor: pointer;
+// }
 
 nav {
   background-color: #f2f2f2;
@@ -61,7 +106,7 @@ nav ul li a:hover {
 }
 
 .social-links {
-  text-align: left;
+  text-align: left; /* Align the social links in the center */
 }
 
 .social-link {
@@ -88,44 +133,3 @@ nav ul li a:hover {
   background-image: url('https://dariusliutas.com/images/github_logo.png');
 }
 
-/* Mobile-specific fixes ONLY */
-@media (max-width: 768px) {
-  .wrapper {
-    width: 100%;
-    padding: 0 15px;
-    box-sizing: border-box;
-  }
-  
-  section {
-    width: 100%;
-    float: none;
-    padding: 20px;
-    box-sizing: border-box;
-  }
-  
-  header {
-    width: 100%;
-    position: static;
-    float: none;
-    text-align: center;
-    padding: 20px 0;
-  }
-  
-  header img {
-    max-width: 150px; /* Maintains your circle crop */
-  }
-  
-  /* Keep nav bar horizontal but ensure it doesn't overflow */
-  nav ul {
-    white-space: nowrap;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-    padding-bottom: 10px;
-  }
-  
-  /* Make images scale to mobile */
-  img:not(header img) {
-    max-width: 100%;
-    height: auto;
-  }
-}
