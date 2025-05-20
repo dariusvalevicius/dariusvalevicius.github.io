@@ -1,67 +1,32 @@
 @import "{{ site.theme }}";
 
-/* Base styles for all devices */
+/* Desktop styles - unchanged from your original */
 .wrapper {
-  max-width: 960px;
-  width: 100%;
+  width: 960px;
   margin: 0 auto;
-  display: flex;
-  flex-wrap: wrap; /* Allow elements to wrap on smaller screens */
 }
 
 section {
-  width: 65%; /* Use percentage instead of fixed width */
-  padding: 0 20px;
-  box-sizing: border-box; /* Include padding in width calculation */
+  width: 650px;
+  float: right;
+  padding-bottom: 50px;
 }
 
 header {
-  width: 30%; /* Use percentage instead of fixed width */
-  padding: 0 20px;
-  box-sizing: border-box;
-}
-
-/* Mobile styles - applies to screens 768px and smaller */
-@media (max-width: 768px) {
-  .wrapper {
-    flex-direction: column; /* Stack elements vertically */
-    padding: 0 15px; /* Add some padding on sides */
-  }
-  
-  section, header {
-    width: 100%; /* Full width on mobile */
-    padding: 0;
-  }
-  
-  /* Optional: Adjust font sizes for mobile */
-  body {
-    font-size: 16px;
-    line-height: 1.5;
-  }
-  
-  /* Adjust navigation for mobile */
-  nav ul li {
-    display: block; /* Stack nav items vertically */
-    margin-bottom: 5px;
-  }
-  
-  /* Make images responsive */
-  img:not(header img) {
-    max-width: 100%;
-    height: auto;
-  }
+  width: 220px;
+  float: left;
+  position: fixed;
 }
 
 header img {
   border-radius: 50%;
-  max-width: 100%; /* Make sure header image is responsive */
+  max-width: 150px;
 }
 
 img:not(header img) {
   border: 5px solid #ccc;
   border-radius: 5px;
-  max-width: 100%; /* Make images responsive */
-  height: auto;
+  max-height: 350px;
 }
 
 nav {
@@ -107,7 +72,6 @@ nav ul li a:hover {
   background-size: cover;
 }
 
-/* Social media logos */
 .instagram {
   background-image: url('https://dariusliutas.com/images/instagram_logo.png');
 }
@@ -122,4 +86,46 @@ nav ul li a:hover {
 
 .github {
   background-image: url('https://dariusliutas.com/images/github_logo.png');
+}
+
+/* Mobile-specific fixes ONLY */
+@media (max-width: 768px) {
+  .wrapper {
+    width: 100%;
+    padding: 0 15px;
+    box-sizing: border-box;
+  }
+  
+  section {
+    width: 100%;
+    float: none;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
+  header {
+    width: 100%;
+    position: static;
+    float: none;
+    text-align: center;
+    padding: 20px 0;
+  }
+  
+  header img {
+    max-width: 150px; /* Maintains your circle crop */
+  }
+  
+  /* Keep nav bar horizontal but ensure it doesn't overflow */
+  nav ul {
+    white-space: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: 10px;
+  }
+  
+  /* Make images scale to mobile */
+  img:not(header img) {
+    max-width: 100%;
+    height: auto;
+  }
 }
