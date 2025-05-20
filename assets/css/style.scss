@@ -1,78 +1,68 @@
----
----
-
 @import "{{ site.theme }}";
 
+/* Base styles for all devices */
 .wrapper {
-  width: 960px;
+  max-width: 960px;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap; /* Allow elements to wrap on smaller screens */
 }
 
 section {
-	width: 650px;
+  width: 65%; /* Use percentage instead of fixed width */
+  padding: 0 20px;
+  box-sizing: border-box; /* Include padding in width calculation */
 }
 
 header {
-	width: 220px;
+  width: 30%; /* Use percentage instead of fixed width */
+  padding: 0 20px;
+  box-sizing: border-box;
 }
 
-// /* Default styles for desktop */
-// .wrapper {
-//   width: 960px;
-//   display: flex;
-//   flex-direction: row;
-// }
-
-// section {
-//   width: 650px;
-// }
-
-// header {
-//   width: 220px;
-// }
-
-// /* Styles for mobile devices */
-// @media (max-width: 767px) {
-//   .wrapper {
-//     width: 100%;
-//     display: flex;
-//     flex-direction: column;
-//   }
-
-//   section, header {
-//     width: 100%;
-//   }
-// }
+/* Mobile styles - applies to screens 768px and smaller */
+@media (max-width: 768px) {
+  .wrapper {
+    flex-direction: column; /* Stack elements vertically */
+    padding: 0 15px; /* Add some padding on sides */
+  }
+  
+  section, header {
+    width: 100%; /* Full width on mobile */
+    padding: 0;
+  }
+  
+  /* Optional: Adjust font sizes for mobile */
+  body {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  /* Adjust navigation for mobile */
+  nav ul li {
+    display: block; /* Stack nav items vertically */
+    margin-bottom: 5px;
+  }
+  
+  /* Make images responsive */
+  img:not(header img) {
+    max-width: 100%;
+    height: auto;
+  }
+}
 
 header img {
-	border-radius: 50%
+  border-radius: 50%;
+  max-width: 100%; /* Make sure header image is responsive */
 }
 
 img:not(header img) {
-    border: 5px solid #ccc;
-    border-radius: 5px;
-    max-height: 350px;
+  border: 5px solid #ccc;
+  border-radius: 5px;
+  max-width: 100%; /* Make images responsive */
+  height: auto;
 }
-
-// section a:not(nav a) {
-//   display: inline-block;
-//   background-color: #fff;
-//   border: 2px solid #ccc;
-//   color: #333;
-//   font-size: 16px;
-//   font-weight: bold;
-//   padding: 10px 20px;
-//   transition: all 0.3s ease-in-out;
-//   text-decoration: none;
-//   min-width: 100px;
-//   text-align: center;
-// }
-
-// section a:hover:not(nav a) {
-//   background-color: #333;
-//   border: 2px solid #333;
-//   color: #fff;
-//   cursor: pointer;
-// }
 
 nav {
   background-color: #f2f2f2;
@@ -106,7 +96,7 @@ nav ul li a:hover {
 }
 
 .social-links {
-  text-align: left; /* Align the social links in the center */
+  text-align: left;
 }
 
 .social-link {
@@ -117,6 +107,7 @@ nav ul li a:hover {
   background-size: cover;
 }
 
+/* Social media logos */
 .instagram {
   background-image: url('https://dariusliutas.com/images/instagram_logo.png');
 }
@@ -132,4 +123,3 @@ nav ul li a:hover {
 .github {
   background-image: url('https://dariusliutas.com/images/github_logo.png');
 }
-
