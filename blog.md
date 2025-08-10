@@ -1,5 +1,7 @@
 # Blog
 
+10/08/2025 - [A guided tour of a psychiatric ICU](https://dariusliutas.com/blog/psych_icu/main)
+
 01/07/2025 - [Some perspectives on somatization, with a fun story](https://dariusliutas.com/blog/somatization/main)
 
 18/05/2025 - [Some thoughts and sufferances on fMRI decoding: Field notes from Machine Learning Hell](https://dariusliutas.com/blog/fmri_decoding/main)
