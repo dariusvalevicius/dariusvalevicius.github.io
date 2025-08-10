@@ -12,7 +12,7 @@ On September 4th, 2023, I received a text from a friend, Amy, that I had not see
 
 The next day, I found myself at the security doors of the brief psychiatric intensive care unit of the hospital. This was not the first time I’d wandered my way through its hallways to these doors. I had been here once before, years ago, to drop off a bag of clothes to my roommate at the time, who suffered from panic attacks and suicidal episodes. I had included a book and a bar of chocolate, not knowing how else to help. That time, the security guard took the bag from me, and I went home. About a year later, she passed away.
 
-At that time, severe psychiatric episodes scared me. I didn’t know how to help, or even if I could. I didn’t understand what the problem was, let alone the solutions. This time, I was not afraid – at least not afraid of psychiatric episodes. I was equipped with years of reading, introspection, and personal experiences that had made extreme states much more understandable and much less scary - and not from a biological lens, but from a human one<sup>1</sup>. Psychiatric institutions, on the other hand, sometimes made my skin crawl.
+At that time, severe psychiatric episodes scared me. I didn’t know how to help, or even if I could. I didn’t understand what the problem was, let alone the solutions. This time, I was not afraid – at least not afraid of psychiatric episodes. I was equipped with years of reading, introspection, and personal experiences that had made extreme states much less scary and much more understandable - and not from a biological lens, but from a human one<sup>1</sup>. Psychiatric institutions, on the other hand, sometimes made my skin crawl.
 
 ## The visit
 
@@ -33,7 +33,7 @@ I stayed for lunch. The microwaved ICU meal contained a tolerable beef stew, som
 
 ---
 
-The darkest aspects of the space, Amy alluded to in a few careful words. She felt a pattern of sadism in some of the staff, and said felt distinctly uncomfortable during the too-often instances where she was required to undress. In this “brief” intensive care unit, some patients had been staying continuously for weeks. One woman with motor control issues struggled to eat and was not assisted. In her near week-long stay, she observed crisis situations and violence that were managed by significant police presence. Her total impression was of a place designed not to help people, but to sedate and control troublemakers.
+The darkest aspects of the space, Amy alluded to in a few careful words. She felt a pattern of sadism in some of the staff, and said she felt distinctly uncomfortable during the too-often instances where she was required to undress. In this “brief” intensive care unit, some patients had been staying continuously for weeks. One woman with motor control issues struggled to eat and was not assisted. In her near week-long stay, she observed crisis situations and violence that were managed by significant police presence. Her total impression was of a place designed not to help people, but to sedate and control troublemakers.
 
 Twice, she tried to introduce me to the psychiatrist as a character reference and to talk about activities and community she would have access to outside of the hospital. Both times were turned away by a nurse, promising to call me later, with my phone number taken down on a torn corner of a piece of paper (on the first day) and an adhesive label (on the second day). I did not receive any calls.
 
