@@ -1,8 +1,8 @@
-# Welcome!
+# Home
 
-... to my humble personal site. I may add some blog posts in the future, but for now, I am trying to document all my work and personal projects in one place.
+Welcome to my humble personal site! I am trying to document all my work and personal projects in one place. I've recently started putting some blog posts and unpublished writing under the Blog tab.
 
-The absolute best place to keep up with me is on [Bluesky](https://bsky.app/profile/dariusliutas.bsky.social). I try to post a bit of everything, but mostly science-related stuff!
+The absolute best place to keep up with me is on [Bluesky](https://bsky.app/profile/dariusliutas.bsky.social). I try to post a bit of everything, but mostly science-related stuff.
 
 To contact me, you can DM me on Bluesky or LinkedIn, or send me an email at [darius.valevicius@gmail.com](darius.valevicius@gmail.com).
 
