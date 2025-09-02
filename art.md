@@ -8,7 +8,8 @@ You can check out some of my paintings and drawings on my [Instagram](https://ww
 
 You can also check out various video game and computational art projects I've done on my [Itch.io](https://dariusliutas.itch.io/). I'm especially proud of [Scène de la Mer](https://dariusliutas.itch.io/scene-de-la-mer), a short poetry experience meant for Google Cardboard VR, and [Sailing Sands](https://dariusliutas.itch.io/sailing-sands), a solo contribution to McGill Game Jam in 2022.
 
-<!-- <html lang="en">
+<!--
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>Photo Gallery</title>
@@ -21,6 +22,8 @@ You can also check out various video game and computational art projects I've do
     <img src="images/gallery/mount_olympus.JPG" alt="Photo 2">
     <img src="images/gallery/st_helens.jpg" alt="Photo 3">
     <!-- Add more images here -->
+<!--
   </div>
 </body>
-</html> -->
+</html>
+-->
