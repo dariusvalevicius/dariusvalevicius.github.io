@@ -15,7 +15,3 @@ This project is in the development stage, and is accessible through multiple Git
 [A self-report only version of the experiment, as well as the code for constructing the CLIP subspace, will be online soon.]
 
 [Poster for Cognitive Computational Neuroscience 2024.](https://dariusliutas.com/files/ccn_poster.pdf) Presented in Cambridge, MA in August.
-
-## Biofeedback tone therapy
-
-Another project, similar to my PhD project, is a method of optimizing peripheral biometric measures (that's things like heartrate and skin conductance) using a kind of adaptive tone therapy - or as my collaborator [Danny Barwick](https://www.instagram.com/dannybarwickmusic) puts it, creating "a song that listens to your body". More on this soon...

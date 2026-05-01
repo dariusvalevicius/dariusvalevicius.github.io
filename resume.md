@@ -1,6 +1,6 @@
 # Resume
 
-[Click here for full CV in PDF format.](https://dariusliutas.com/files/darius-valevicius_resume_august-2024.pdf)
+[Click here for full CV in PDF format.](https://dariusliutas.com/files/darius-valevicius_resume_may-2026.pdf)
 
 ## Publications
 
@@ -38,7 +38,7 @@ McGill University\
 Mentorship, website management, and creative programming for an intersciplicary research hub at McGill University.
 
 Building 21, McGill University\
-2021-present
+2021-2023
 
 ### Research Software Developer
 
